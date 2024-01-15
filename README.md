@@ -4,4 +4,4 @@ The first project involved using stacks to hold bracket characters, and compare 
 
 The second project involved making a binary search tree that would read a file for tree node names, search through the tree using query functions, and return the answer. 
 
-The third project involved using multithreading and priority queues to 
+The third project involved using multithreading and priority queues to read an input file and return which threads will be responsible for processing each job and when that processing will commence.
