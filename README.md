@@ -1,13 +1,7 @@
-# Data-Structures-Project
+These C++ files are projects I completed for my Data Structures class. The first two were solo projects, and the third was a group project.
 
- Simulation of a Linux Scheduler using Priority Queues
- 
-Description:
-You are in possession of a program that's been parallelized and employs 𝑛 individual threads to tackle a given list of m jobs or tasks. 
-Threads operate on these tasks in the sequence they appear in the input. Whenever a thread becomes available, it promptly picks up the next job from the list. 
-Once a thread commences processing a job, it proceeds without interruption until the job reaches completion. 
-In cases where multiple threads vie for tasks from the list at the same time, the thread with the lower index takes precedence. 
-Each job comes with a precise processing time, which remains constant across all threads. 
-Your task involves determining both which threads will be responsible for processing each job and when that processing will commence.
+The first project involved using stacks to hold bracket characters, and compare the brackets to see if they are balanced. If they are not balanced, it returns the first instance of where it is not balanced. 
 
-This project was completed using C++. 
+The second project involved making a binary search tree that would read a file for tree node names, search through the tree using query functions, and return the answer. 
+
+The third project involved using multithreading and priority queues to 
